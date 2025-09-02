@@ -15,19 +15,13 @@
 
 ## ⚡ Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/i-am-ap/School_Search.git
-   cd School_Search
-````
-
-2. **Install dependencies:**
+1. **Install dependencies:**
 
    ```bash
    npm install
    ```
 
-3. **Environment Variables (.env):**
+2. **Environment Variables (.env):**
 
    ```env
    DATABASE_URL=your_railway_mysql_url
@@ -35,12 +29,12 @@
    BLOB_READ_WRITE_TOKEN=your_vercel_blob_rw_token
    ```
 
-4. **Run locally:**
+3. **Run locally:**
 
    ```bash
    npm run dev
    ```
 
-5. **Visit:** `http://localhost:3000`
+4. **Visit:** `http://localhost:3000`
 
 
